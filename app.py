@@ -3,8 +3,8 @@ import speech_recognition as sr
 
 # --- AWS CONFIGURATION (Security First: Using Environment Variables) ---
 # Tip: On your local machine, set these as environment variables or use the defaults below for testing.
-AWS_ACCESS_KEY = os.getenv('AWS_ACCESS_KEY', 'AKIAURBF27PON67Z35G3') 
-AWS_SECRET_KEY = os.getenv('AWS_SECRET_KEY', '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')
+AWS_ACCESS_KEY = os.getenv('AWS_ACCESS_KEY', 'MY_KEY_HERE') 
+AWS_SECRET_KEY = os.getenv('AWS_SECRET_KEY', 'MY_KEY_HERE')
 REGION = 'us-east-1'
 
 session = boto3.Session(
