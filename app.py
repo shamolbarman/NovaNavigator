@@ -4,8 +4,8 @@ import cv2
 import pywhatkit
 
 # --- AWS & NOVA 
-AWS_ACCESS_KEY = 'YOUR_AWS_ACCESS_KEY' 
-AWS_SECRET_KEY = 'YOUR_AWS_SECRET_KEY'
+AWS_ACCESS_KEY = 'Ny_AWS_ACCESS_KEY' 
+AWS_SECRET_KEY = 'My_AWS_SECRET_KEY'
 REGION = 'us-east-1'
 
 session = boto3.Session(
