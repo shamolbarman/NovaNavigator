@@ -7,7 +7,7 @@ NovaNavigator: An autonomous agentic web-operating robot powered by Amazon Nova 
 * **Real-time Status:** A dynamic dashboard built with CustomTkinter.
 
 ### Tech Stack:
-* **Brain:** Amazon Nova 2 (via Bedrock)
+* **Brain:** Amazon Nova  (via Bedrock)
 * **Voice:** Amazon Polly
 * **UI:** CustomTkinter & Pygame
 * **Automation:** Python Webbrowser & OS integration
