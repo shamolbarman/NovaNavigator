@@ -4,7 +4,7 @@ import cv2
 import pywhatkit
 
 # --- AWS & NOVA 
-AWS_ACCESS_KEY = 'Ny_AWS_ACCESS_KEY' 
+AWS_ACCESS_KEY = 'My_AWS_ACCESS_KEY' 
 AWS_SECRET_KEY = 'My_AWS_SECRET_KEY'
 REGION = 'us-east-1'
 
